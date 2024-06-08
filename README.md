@@ -2,3 +2,4 @@
 # böngészőből módosítottam
 # local readme módosítás változtatás
 # konfliktus 2
+# még egy konfliktus
