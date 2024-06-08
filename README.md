@@ -4,3 +4,4 @@
 # konfliktus 2
 # még egy konfluktus 2
 # még egy konfluktus 3
+# még egy konfluktus 4
